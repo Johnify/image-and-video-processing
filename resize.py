@@ -7,6 +7,7 @@ Created on Tue Dec 31 10:10:13 2019
 
 import cv2
 import glob
+#import numpy
 
 images = glob.glob("*.jpg") #finds all images with  jpg extension and saves them to images
 
